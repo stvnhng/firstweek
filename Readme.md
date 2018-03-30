@@ -89,4 +89,4 @@ function findPair( sum , numberArray ){
   })
 }
 findPair(50, array)
-console.log(numPairs)
+console.log(numPairs)# week1answers
